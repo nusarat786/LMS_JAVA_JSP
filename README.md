@@ -62,3 +62,10 @@ Reset Employee Leave Balanace By Id
 
 Accept / Reject Request
 ![image](https://github.com/nusarat786/LMS_JAVA_JSP/assets/95936097/0f45a3b7-a436-4250-8359-d47a050b961f)
+
+
+Mail Records are also genrated
+
+![image](https://github.com/nusarat786/LMS_JAVA_JSP/assets/95936097/c482e88d-7c28-401f-a5ee-85fbabd8b0ae)
+![image](https://github.com/nusarat786/LMS_JAVA_JSP/assets/95936097/2c970024-e82a-4d47-aa74-a4c6e1763010)
+![image](https://github.com/nusarat786/LMS_JAVA_JSP/assets/95936097/fd4b535b-f1d8-42f6-a7e2-f104637d6350)
