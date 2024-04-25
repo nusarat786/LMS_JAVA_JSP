@@ -1,0 +1,74 @@
+@charset "ISO-8859-1";
+
+		 /* Styling for banner card */
+    .banner-card {
+      border: 2px solid #ccc;
+      border-radius: 10px;
+      padding: 20px;
+      text-align: center;
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: space-between; /* Arrange content with space between */
+      align-items: center; /* Center content vertically */
+      box-shadow: 
+        0px 6px 10px rgba(49, 151, 149, 0.8), /* Main shadow */
+        0px 1px 18px rgba(49, 151, 149, 0.6), /* Inset shadow */
+        0px 3px 5px rgba(49, 151, 149, 0.4); /* Subtle bottom shadow */
+    }
+    
+    
+
+    /* Styling for banner image */
+    .banner-image {
+      max-width: 45%; /* Adjust width of image */
+      height: auto;
+      border-radius: 10px;
+    }
+
+    /* Styling for welcome message */
+    .welcome-msg-container {
+      flex: 1; /* Allow message to grow and occupy remaining space */
+    }
+
+    /* Increase font size of welcome message */
+    .welcome-msg-container ,.h-4 {
+      font-size: 3.5rem; /* Adjust font size as needed */
+    }
+		 
+	.border-con{
+		border: 2px solid #ccc;
+      	border-radius: 10px;
+      	margin-top:1rem !important;
+      	margin-bottom:1.5rem !important;
+	}
+	
+	.border-con-2{
+	border: 2px solid #ccc;
+      	border-radius: 10px;
+      	margin-top:1rem !important;
+      	margin-bottom:1.5rem !important;
+	
+	box-shadow:  
+        0px 6px 10px rgba(0,0,0,0), /* Main shadow */
+        0px 1px 18px rgba(1, 1, 1, 0.6), /* Inset shadow */
+        0px 3px 5px rgba(255, 255, 255, 0.4); /* Subtle bottom shadow */
+        
+	}
+	@media (max-width: 576px) {
+	  .welcome-msg-container, .h-4 {
+	    font-size: 1.8rem; /* Set font size to 1rem for mobile devices */
+	  }
+	}
+	
+	body {
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+            margin: 0; /* Set body margin to 0 */
+            box-sizing: border-box; /* Apply border-box model to the body element */
+       
+        }
+        
+   .bg_main{
+			  background-color: rgb(49, 151, 149) !important;
+			  color :RGB(255, 255, 255) !important;
+		}     
+        
